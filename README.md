@@ -20,10 +20,10 @@ To run the script, navigate to its directory in the terminal and execute it by t
 
 What the Script Does
 
-1.CPU Usage Check: Alerts if CPU usage is above the defined threshold.
-2.Disk Usage Check: Alerts if disk usage on the root volume is above the defined threshold.
-3.Memory Usage Check: Alerts if memory usage is above the defined threshold.
-4.Process Check: Lists the top 5 processes consuming the most CPU and memory.
+1. CPU Usage Check: Alerts if CPU usage is above the defined threshold.
+2. Disk Usage Check: Alerts if disk usage on the root volume is above the defined threshold.
+3. Memory Usage Check: Alerts if memory usage is above the defined threshold.
+4. Process Check: Lists the top 5 processes consuming the most CPU and memory.
 
 ## Configurable Thresholds
 You can adjust the following thresholds at the top of the script according to your needs:
