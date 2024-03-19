@@ -18,7 +18,7 @@ To run the script, navigate to its directory in the terminal and execute it by t
 ./system_health_monitor.sh
 ```
 
-What the Script Does
+## What the Script Does
 
 1. CPU Usage Check: Alerts if CPU usage is above the defined threshold.
 2. Disk Usage Check: Alerts if disk usage on the root volume is above the defined threshold.
