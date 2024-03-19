@@ -27,11 +27,7 @@ To run the script, navigate to its directory in the terminal and execute it by t
 
 ## Configurable Thresholds
 You can adjust the following thresholds at the top of the script according to your needs:
-```
-CPU_THRESHOLD
-DISK_THRESHOLD
-MEM_THRESHOLD
-```
+`CPU_THRESHOLD`, `DISK_THRESHOLD` and `MEM_THRESHOLD`.
 
 ## Notifications
 Alerts are displayed as desktop notifications using osascript, which is part of macOS's automation tools.
