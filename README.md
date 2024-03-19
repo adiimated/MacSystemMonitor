@@ -32,6 +32,4 @@ You can adjust the following thresholds at the top of the script according to yo
 ## Notifications
 Alerts are displayed as desktop notifications using osascript, which is part of macOS's automation tools.
 
-![System Health Monitor Screenshot](https://github.com/adiimated/MacSystemMonitor/blob/main/mac_health.png)
-
 Feel free to fork the project and submit pull requests with enhancements or fixes.
