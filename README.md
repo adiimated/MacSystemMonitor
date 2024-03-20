@@ -10,7 +10,7 @@ git clone https://github.com/adiimated/MacSystemMonitor.git
 ```
 2. Make the script executable: 
 ```
-chmod +x your_script_name.sh
+chmod +x system_health_monitor.sh
 ```
 3. To run the script, navigate to its directory in the terminal and execute it by typing:
 ```
