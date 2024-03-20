@@ -2,18 +2,17 @@
 
 This script is designed to monitor the health of your macOS system, checking for CPU, disk, and memory usage. If any of these metrics exceed predefined thresholds, the script will trigger a desktop notification to alert the user. Additionally, it lists the top 5 CPU and memory-consuming processes.
 
-## Installation
+## Usage
 
-Clone the repository or download the script: You can clone the repo to your local machine using Git or simply download the .sh file directly.
-
-Make the script executable: Navigate to the directory containing the script and run the following command to make it executable:
+1. Clone the repository or download the script
+```
+git clone https://github.com/adiimated/MacSystemMonitor.git
+```
+2. Make the script executable: 
 ```
 chmod +x your_script_name.sh
 ```
-
-## Usage
-
-To run the script, navigate to its directory in the terminal and execute it by typing:
+3. To run the script, navigate to its directory in the terminal and execute it by typing:
 ```
 ./system_health_monitor.sh
 ```
